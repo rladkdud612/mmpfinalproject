@@ -1,0 +1,15 @@
+h1{font-size: 60px}
+h1{font-family:monospace}
+h1{font-style:oblique}
+h1{color:black}
+
+h2,h3,h4,h5,h6,h7,h8{font-size: 40px}
+p{color:#664B00}
+p{font-family:monospace}
+h2,h3,h4,h5,h6,h7,h8{font-style:oblique}
+p{border: 3px dotted}
+
+p{font-size: 30px}
+h2,h3,h4,h5,h6,h7,h8{font-family: sans-serif}
+h2,h3,h4,h5,h6,h7,h8{color:#F6F6F6}
+h2,h3,h4,h5,h6,h7,h8{background:#9C5B36}

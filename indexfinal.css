@@ -1,0 +1,21 @@
+h1{font-size: 60px}
+h1,h2{font-family:monospace}
+h1,h2{font-style:oblique}
+h1{color:darkslategrey}
+h2{font-size: 30px}
+h2{color:darkslategrey;}
+h2{background:#eee }
+h3{background:#eee}
+h3{color:darkslategrey}
+h3{font-size: 30px}
+h3{border: 3px dotted}
+h3{font-family:monospace}
+
+div{background:}
+div{color:whitesmoke}
+div{font-size:20px}
+div{font-style:oblique}
+p{font-size:20px}
+p{font-style: oblique}
+p{border-bottom-style: groove}
+p{font-family: monospace}
